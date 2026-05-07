@@ -18,10 +18,6 @@
 {
     "src": "./public/images/gallery/SolarPanel.jpg",
     "title": "Home Solar Grids"
-  },
-{
-    "src": "./public/images/gallery/SolarPanels.jpg",
-    "title": "Home Solar Grids"
   },{
     "src": "./public/images/gallery/CCTV.png",
     "title": "CCTV Installations"
@@ -29,7 +25,7 @@
     "src": "./public/images/gallery/fences.png",
     "title": "CCTV Installations and Razor fence"
   },{
-    "src": "./public/images/gallery/laying pipes.png",
+    "src": "./public/images/gallery/laying pipes.jpg",
     "title": "Laying Pipes"
   }
 ]
