@@ -25,5 +25,8 @@
   },{
     "src": "./public/images/gallery/CCTV.png",
     "title": "CCTV Installations"
+  },{
+    "src": "./public/images/gallery/fences.png",
+    "title": "CCTV Installations and Razor fence"
   }
 ]
