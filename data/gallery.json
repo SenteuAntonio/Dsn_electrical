@@ -1,10 +1,25 @@
 [
   {
-    "src": "./public/images/gallery/LightInstall.jpg",
+    "src": "./public/images/gallery/LightInstalling.jpg",
+    "title": "Light Installation"
+  },
+{
+    "src": "./public/images/gallery/Install.jpg",
     "title": "Light Installation"
   },
   {
-    "src": ".public/images/gallery/install.jpg",
-    "title": "CCTV Setup"
+    "src": "./public/images/gallery/SolarInstall.jpg",
+    "title": "Solar Setups"
+  },
+{
+    "src": "./public/images/gallery/SolarPanel.jpg",
+    "title": "Home Solar Grids"
+  },
+{
+    "src": "./public/images/gallery/SolarPanels.jpg",
+    "title": "Home Solar Grids"
+  },{
+    "src": "./public/images/gallery/SolarPanel.jpg",
+    "title": "CCTV Installations"
   }
 ]
