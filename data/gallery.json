@@ -7,6 +7,10 @@
     "src": "./public/images/gallery/Install.jpg",
     "title": "Light Installation"
   },
+{
+    "src": "./public/images/gallery/smartlight.jpg",
+    "title": "Light Installation"
+  },
   {
     "src": "./public/images/gallery/SolarInstall.jpg",
     "title": "Solar Setups"
